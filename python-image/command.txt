@@ -1,0 +1,7 @@
+Build command=>
+//Dockerfile shold be available at root folder otherwise error while building a image
+docker build -t myfirstpythonimage .
+
+run image=>
+
+docker run myfirstpythonimage   
