@@ -3,5 +3,5 @@ Build command=>
 docker build -t myfirstpythonimage .
 
 run image=>
-
+//commands are very helpful
 docker run myfirstpythonimage   
